@@ -1,0 +1,2 @@
+include ':app', ':liseetaface2'
+rootProject.name='SeetaFace2Demo'
