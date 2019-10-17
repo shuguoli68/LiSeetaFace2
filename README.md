@@ -4,18 +4,18 @@
 ###### 效果截图
 1. 人脸检测识别
 <div align="center">
-<img src="https://github.com/shuguoli68/SeetaFace2Demo/blob/master/Screenshots/1.png"  height="480" width="270">
-<img src="https://github.com/shuguoli68/SeetaFace2Demo/blob/master/Screenshots/2.png"  height="480" width="270">
-<img src="https://github.com/shuguoli68/SeetaFace2Demo/blob/master/Screenshots/3.png"  height="480" width="270">
+<img src="https://github.com/shuguoli68/LiSeetaFace2/blob/master/Screenshots/1.png"  height="480" width="270">
+<img src="https://github.com/shuguoli68/LiSeetaFace2/blob/master/Screenshots/2.png"  height="480" width="270">
+<img src="https://github.com/shuguoli68/LiSeetaFace2/blob/master/Screenshots/3.png"  height="480" width="270">
 </div>
 2. 人脸相似度：
 <div align="center">
-<img src="https://github.com/shuguoli68/SeetaFace2Demo/blob/master/Screenshots/4.png"  height="480" width="270">
-<img src="https://github.com/shuguoli68/SeetaFace2Demo/blob/master/Screenshots/5.png"  height="480" width="270">
+<img src="https://github.com/shuguoli68/LiSeetaFace2/blob/master/Screenshots/4.png"  height="480" width="270">
+<img src="https://github.com/shuguoli68/LiSeetaFace2/blob/master/Screenshots/5.png"  height="480" width="270">
 </div>
 <div align="center">
-<img src="https://github.com/shuguoli68/SeetaFace2Demo/blob/master/Screenshots/6.png"  height="480" width="270">
-<img src="https://github.com/shuguoli68/SeetaFace2Demo/blob/master/Screenshots/7.png"  height="480" width="270">
+<img src="https://github.com/shuguoli68/LiSeetaFace2/blob/master/Screenshots/6.png"  height="480" width="270">
+<img src="https://github.com/shuguoli68/LiSeetaFace2/blob/master/Screenshots/7.png"  height="480" width="270">
 </div>
 
 
@@ -53,14 +53,14 @@ defaultConfig {
     }
 ```
 <div align="left">
-<img src="https://github.com/shuguoli68/SeetaFace2Demo/blob/master/Screenshots/so.png">
+<img src="https://github.com/shuguoli68/LiSeetaFace2/blob/master/Screenshots/so.png">
 </div>
 
 2. **模型文件下载**: <a href="https://pan.baidu.com/s/1s4OWPnVFj3_xLNoQM1mdqA" target="_blank">https://pan.baidu.com/s/1s4OWPnVFj3_xLNoQM1mdqA</a>  
 dat模型文件seetaface ：SeetaFaceDetector2.0.ats 、 SeetaFaceRecognizer2.0.ats 、 SeetaPointDetector2.0.pts5.ats  
 将三个ats文件放置在SD卡，根目录下的seetaface目录下，可以放在assets资源目录下，然后复制到SD卡，或者去服务器下载
 <div align="left">
-<img src="https://github.com/shuguoli68/SeetaFace2Demo/blob/master/Screenshots/ats.png">
+<img src="https://github.com/shuguoli68/LiSeetaFace2/blob/master/Screenshots/ats.png">
 </div>
 
 + 二、初始化代码
