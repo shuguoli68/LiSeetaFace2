@@ -34,7 +34,7 @@ allprojects {
 Step 2. Add the dependency
 ```
 dependencies {
-	        implementation 'com.github.shuguoli68:SeetaFace2Demo:1.0'
+	        implementation 'com.github.shuguoli68:LiSeetaFace2:1.0'
 	}
 ```
 
